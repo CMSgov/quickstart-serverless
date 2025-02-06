@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "octokit": "^2.0.7"
+    "octokit": "^4.1.0"
   }
 }
